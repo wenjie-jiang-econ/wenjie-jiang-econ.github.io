@@ -79,7 +79,7 @@ Do not list papers that are not ready to be public. Use clear placeholders for i
 
 ## Deploy Through GitHub Pages
 
-1. Use the GitHub repository `WenjieJiang99/wenjiejiang.github.io`.
+1. Use the GitHub repository `wenjie-jiang-econ/wenjie-jiang-econ.github.io`.
 2. Upload or push these website files to that repository.
 3. On GitHub, open the repository settings.
 4. Go to **Pages**.
@@ -88,7 +88,7 @@ Do not list papers that are not ready to be public. Use clear placeholders for i
 7. Your site should appear at:
 
 ```text
-https://wenjiejiang99.github.io/wenjiejiang.github.io/
+https://wenjie-jiang-econ.github.io/
 ```
 
 After deployment, update the placeholder URL in `index.html` and `sitemap.xml`.
