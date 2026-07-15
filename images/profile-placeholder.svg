@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="1040" viewBox="0 0 780 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait for Wenjie Jiang</title>
+  <desc id="desc">A neutral academic profile image placeholder with the initials WJ.</desc>
+  <rect width="780" height="1040" fill="#f4f7fb"/>
+  <rect x="48" y="48" width="684" height="944" rx="20" fill="#ffffff" stroke="#cbd6e2" stroke-width="4"/>
+  <circle cx="390" cy="350" r="132" fill="#d8e2ee"/>
+  <path d="M176 796c20-142 112-224 214-224s194 82 214 224" fill="#d8e2ee"/>
+  <text x="390" y="886" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" fill="#3d4a5c">WJ</text>
+</svg>
