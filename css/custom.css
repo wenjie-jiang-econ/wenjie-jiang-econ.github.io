@@ -201,6 +201,54 @@ h5.section + .paper-title::before {
   width: 200px;
 }
 
+.recent-updates {
+  margin: 1.75rem 0 1.5rem;
+  padding: 0.15rem 0 0.15rem 1.15rem;
+  border-left: 2px solid #2869cc;
+}
+
+.recent-updates h2 {
+  color: #1f2933;
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0 0 0.85rem;
+}
+
+.recent-updates-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recent-updates-list li {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  gap: 0.25rem 1rem;
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.recent-updates-list li + li {
+  margin-top: 0.65rem;
+}
+
+.recent-updates-list p {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.recent-updates .update-date {
+  color: #5f6b7a;
+  font-size: 0.85rem;
+  padding-top: 0.1rem;
+}
+
+@media (max-width: 575.98px) {
+  .recent-updates-list li {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 .status-badge {
   background-color: #2869cc;
   color: #fff;
